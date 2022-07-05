@@ -1,16 +1,20 @@
-# calculadora_imc
+# Calculadora de IMC
 
-A new Flutter project.
+Aplicação Mobile de Calculadora de IMC (BMI Calculator) em Flutter desenvolvida durante o treinamento "Criação de Apps Android/iOS/Web com Flutter - 5 cursos em 1" da plataforma Udemy.
 
-## Getting Started
+## Informações adicionais
 
-This project is a starting point for a Flutter application.
+- Flutter v. 2.5.1
+- Dart v. 2.14.2
+- Google Fonts v. 1.0.0
 
-A few resources to get you started if this is your first Flutter project:
+## Imagens
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img width="200" alt="Home vazia" src="./flutter_01.png">
+  <img width="200" alt="Home vazia" src="./flutter_02.png">
+</div>
+<div align="center">
+  <img width="200" alt="Home vazia" src="./flutter_03.png">
+  <img width="200" alt="Home vazia" src="./flutter_04.png">
+</div>
