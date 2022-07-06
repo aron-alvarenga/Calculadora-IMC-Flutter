@@ -8,6 +8,16 @@ Aplicação Mobile de Calculadora de IMC (BMI Calculator) em Flutter desenvolvid
 - Dart v. 2.14.2
 - Google Fonts v. 1.0.0
 
+Listar os dispositivos disponíveis
+```flutter
+  flutter devices
+```
+
+Inicializar a aplicação utilizando o Google Chrome
+```flutter
+  flutter run -d chrome --no-sound-null-safety
+```
+
 ## Imagens
 
 <div align="center">
